@@ -9,7 +9,7 @@
 **Telegram:** @tactical_beart
 
 #### В настоящее время (с 11.03.24 по 13.05.24)
-прохожу обучение по программе "Python для анализа данных" (ГБОУ Дополнительного Профессионального Образования "Профессионал", 9 недель, 260 часов): Pandas, NumPy, SciPy, Matplotlib, Beautiful Soup, Jupiter Notebook, Google Colab, парсинг веб-сайтов
+прохожу обучение по программе "Python для анализа данных" (ГБОУ Дополнительного Профессионального Образования "Профессионал", 9 недель, 260 часов): Pandas, NumPy, SciPy, Matplotlib, Seaborn, Beautiful Soup, Jupiter Notebook, Google Colab, парсинг веб-сайтов
 
 ## Опыт работы.
 
